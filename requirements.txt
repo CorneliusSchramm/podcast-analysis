@@ -1,0 +1,8 @@
+streamlit
+plotly
+pandas
+spacy
+numpy
+umap-learn
+hdbscan
+scikit-learn 
