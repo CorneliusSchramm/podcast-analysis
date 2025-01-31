@@ -40,7 +40,7 @@ def load_data():
         pd.DataFrame: The loaded DataFrame.
 
     """
-    return pd.read_csv('full_df.csv')
+    return pd.read_csv('data/full_df.csv')
 
 def create_timeline_plot(df):
     # Convert to datetime
