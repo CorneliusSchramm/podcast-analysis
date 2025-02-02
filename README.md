@@ -17,7 +17,7 @@ This project takes raw markdown exports of podcast episodes and uses a combinati
 
 ## Data Wrangling & Extraction
 
-The raw data (e.g., `data/snipd_export_2024-12-24_14-55.md`) contains markdown-formatted podcast episodes with metadata, show notes, snips, and transcripts directly expoted from Snipd, a podcast player I use that allows you to save insights instantly. In the `notebooks/essential_code.ipynb` (and supporting code):
+The raw data (e.g., `data/snipd_export_2024-12-24_14-55.md`) contains markdown-formatted podcast episodes with metadata, show notes, snips, and transcripts directly expoted from [Snipd](https://www.snipd.com/), a podcast player I use that allows you to save insights and notes conveniently. In the `notebooks/essential_code.ipynb` (and supporting code):
 
 - **Pydantic Models:**  
   Two models—`EpisodeData` and `Snip`—are defined to represent the structure of each podcast episode and its snippets.
