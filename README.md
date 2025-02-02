@@ -2,6 +2,12 @@
 
 A Streamlit-based dashboard for analyzing podcast content using natural language processing and interactive visualizations. This repository includes data wrangling code (in Jupyter notebooks) to extract and structure raw markdown data and a web app (in `app.py`) that presents the cleaned data through interactive timelines and semantic keyword analyses.
 
+
+
+https://github.com/user-attachments/assets/7be2b4b0-c39b-4518-82ec-40c3cc0b6eb5
+
+
+
 ## Overview
 
 This project takes raw markdown exports of podcast episodes and uses a combination of NLP, custom data models, and OpenAI’s GPT-powered extraction to transform unstructured content into a structured CSV file. The processed data is then fed into a Streamlit dashboard that provides:
